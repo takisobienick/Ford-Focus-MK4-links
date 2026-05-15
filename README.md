@@ -1,5 +1,7 @@
 Instrukcja po modelu lub VIN:
+
 https://www.ford.pl/wsparcie/podreczniki-uzytkownika
+
 
 Decoder VIN (najlepiej dodać VIN do swojego konta Ford i wtedy mamy wyposażenie, historię serwisowania i aktualizacje):
 https://www.fordzona.sk/ można wykupić historię
