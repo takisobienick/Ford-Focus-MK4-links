@@ -1,0 +1,71 @@
+Useful Links and Manuals
+Owner’s Manual by Model or VIN
+
+https://www.ford.pl/wsparcie/podreczniki-uzytkownika
+
+VIN Decoder
+
+(Recommended: add your VIN to your Ford account to access equipment details, service history and updates)
+
+https://www.fordzona.sk/
+(Paid vehicle history available)
+
+https://ford-esklep.pl/
+
+Original AsBuilt Module Data by VIN
+
+https://www.motorcraftservice.com/asbuilt
+
+Repair Manuals
+
+https://getthemanuals.org/index.php?indexname=2018-2021-FORD-Focus-Service-Manual
+
+https://workshop-manuals.com/ford/
+(disable AdBlock if needed)
+
+8F35 / 8F40 Transmission Knowledge Base (Lincoln/Ford)
+
+https://www.licorsair.com/lincoln_corsair_automatic_transmission_8_speed_automatic_transmission_v_8f35_8f40-2494.html
+
+Towbar Wiring Harness Installation Manual (Wagon/Estate)
+
+https://www.fordservicecontent.com/Ford_Content/Catalog/accessory_files/SKRX6J-15A416-B_E_Kit_Wagon.pdf
+
+Additional Wiring Harness (Fuse Box → Towbar Module)
+
+Useful when installing a used towbar with module wiring but without factory preparation.
+Note: additional ground connection to pin 1 in the CAN connector at the module is required.
+
+https://haksystem.pl/findelectricalset/public/upload/pdf/pl/121773663201.pdf
+
+Towbar Retrofit Example
+
+(Spanish manufacturer Enganches ARAGON E2012DV)
+
+https://www.youtube.com/watch?v=XT6DscExyWs
+
+Technical Service Information & TSBs
+
+https://www.ford.com/support/service-information/
+
+https://oemdtc.com/nhtsa-tsbs/
+
+https://www.nhtsa.gov/recalls?vymm=WF02XXERK2LR60957
+
+https://www.idaf.it/index.php?board=392.35
+
+https://www.tsbsearch.com/Ford
+
+Useful Forums & Communities
+
+https://forum.fordclubpolska.org/
+
+https://www.facebook.com/groups/mk4pl/
+
+https://my-ford-focus.de/
+
+https://www.ford-forum.de/forums/focus-mk4-forum.204/
+
+https://www.motor-talk.de/forum/ford-focus-mk4-b1046.html
+
+https://www.fordownersclub.com/forums/forum/2-ford-focus-club/
