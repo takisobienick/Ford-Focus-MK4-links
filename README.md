@@ -8,7 +8,7 @@ https://www.fordzona.sk/ można wykupić historię
 
 https://ford-esklep.pl/
 
-Oryginalne dane powykonawcze modułu AsBuilt po VIN:
+Oryginalne dane wykonawcze modułu AsBuilt po VIN:
 
 https://www.motorcraftservice.com/asbuilt
 
@@ -27,7 +27,7 @@ Instrukcja montażu wiązki haka (kombi):
 
 https://www.fordservicecontent.com/Ford_Content/Catalog/accessory_files/SKRX6J-15A416-B_E_Kit_Wagon.pdf
 
-Wiązka uzupełniająca od bezpieczników do modułu jak kupuje się używany hak z wiaką do moduły a nie ma się fabrycznej instalacji - uwaga trzeba dołożyć masę/uziemienie do pinu 1 w kostce CAN przy module)
+Wiązka uzupełniająca od bezpieczników do modułu (jak kupuje się używany hak z wiązką do modułu, a nie ma się fabrycznej instalacji - uwaga trzeba dołożyć masę/uziemienie do pinu 1 w kostce CAN przy module)
 https://haksystem.pl/findelectricalset/public/upload/pdf/pl/121773663201.pdf
 
 Dokładanie haka na przykładzie hiszpańskiego producenta enganches ARAGON E2012DV
